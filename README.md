@@ -50,3 +50,11 @@ GitHub Actions 的 `Check catalog` 工作流在 `main` push 和 PR 时执行独�
 仓库包含完整页面源码、产品数据、Worker、生成脚本和资源 SHA-256 清单。约 164 MB 的已发布图片和 PDF 分块不直接纳入 Git，构建时依据 `assets/published-assets.json` 从现有发布站点补齐，逐个校验长度和 SHA-256；已有正确文件则跳过。可通过 `ASSET_BASE_URL` 指定相同资源的备份镜像。构建恢复依赖资源源站或备份可访问；首次发布到全新环境前请先准备素材备份。
 
 原始供应商图片 `assets/source/`、生成的完整 PDF `output/pdf/*.pdf`、已发布素材 `public/images/` 和 `public/_pdf/` 均完整保留在本机并被 Git 忽略。修改素材后应先在本地重新生成、校验与发布，再更新资源清单中的哈希。CI 无需重新制作 244 页画册。
+
+## 访问统计
+
+爱站独立统计站点 ID：`226859`，主地址为 `https://modular.bool.win/`。`public/analytics.js` 仅在 `modular.bool.win` 和 `modular.dht.so` 加载官方异步代码，本地调试和 Worker 预览不计入统计。旧域名当前未解析，恢复到同一站点后兼容统计。
+
+CSP 仅额外放行该站点的统计节点 `https://node92.aizhantj.com:21233`；使用独立 JS 文件加载，不启用 `unsafe-inline` 或 `unsafe-eval`。统计采用平台默认页面访问行为，不额外采集询价表单内容。产品详情弹窗、搜索筛选不额外手工计入 PV，PDF 请求不执行页面统计。
+
+报表：https://tongji.aizhan.com/analysis/index/index/?siteId=226859 。新配置同步和报表入库可能有延迟，需在后台确认实际访问数据。
