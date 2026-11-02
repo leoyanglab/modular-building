@@ -1,0 +1,14 @@
+{
+  "name": "modularni-prostori",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "wrangler dev --port 4174",
+    "deploy": "wrangler deploy",
+    "build": "node scripts/restore-assets.mjs && node scripts/verify.cjs",
+    "restore:assets": "node scripts/restore-assets.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

@@ -1,0 +1,16 @@
+node_modules/
+.wrangler/
+tmp/
+.env*
+.DS_Store
+
+.deploy/
+output/pdf/*.pdf
+
+.migration/
+public/_migration/
+
+assets/source/
+public/images/
+public/_pdf/
+*.download

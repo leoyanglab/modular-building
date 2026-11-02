@@ -1,0 +1,21 @@
+{
+  "name": "modularni-prostori-rs",
+  "account_id": "3d62edac1ba868f171c3ded08fa28fa2",
+  "compatibility_date": "2026-09-14",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": [
+      "/downloads/katalog-digital.pdf",
+      "/downloads/katalog-print.pdf"
+    ]
+  },
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "modular.bool.win",
+      "custom_domain": true
+    }
+  ],
+  "main": "src/worker.js"
+}

@@ -1,0 +1,5733 @@
+[
+  {
+    "id": "space28",
+    "name": "Space 28",
+    "category": "Svemirske kapsule",
+    "area": "28 m²",
+    "image": "capsule-59",
+    "source": "产品介绍 p.59",
+    "description": "Čiste linije, panoramsko staklo i prostor za miran boravak. Koncept za glamping, vikend odmor ili turistički smeštaj.",
+    "areaLabel": "Površina prema katalogu",
+    "code": "ZX-59",
+    "aliases": [
+      "ZX-59"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 59
+      }
+    ]
+  },
+  {
+    "id": "space38",
+    "name": "Space 38",
+    "category": "Svemirske kapsule",
+    "area": "38 m²",
+    "image": "capsule-58",
+    "source": "产品介绍 p.58",
+    "description": "Prostranija kapsula sa otvorenim pogledom ka okruženju. Inspiracija za samostalnu smeštajnu jedinicu u prirodi.",
+    "areaLabel": "Površina prema katalogu",
+    "code": "ZX-58",
+    "aliases": [
+      "ZX-58"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 58
+      }
+    ]
+  },
+  {
+    "id": "apple33",
+    "name": "Apple 33",
+    "category": "Apple kabine",
+    "area": "33 m²",
+    "image": "capsule-62",
+    "source": "产品介绍 p.62",
+    "description": "Zaobljena silueta i velika staklena površina. Fleksibilan koncept za odmor, goste ili mali turistički kompleks.",
+    "areaLabel": "Površina prema katalogu",
+    "code": "ZX-62",
+    "aliases": [
+      "ZX-62"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 62
+      }
+    ]
+  },
+  {
+    "id": "duplex96",
+    "name": "Duplex 96",
+    "category": "Modularni objekti",
+    "area": "96 m²",
+    "image": "duplex-12",
+    "source": "双层款式 p.12 / 双层11",
+    "description": "Dva nivoa za nove poslovne ideje. Koncept modularnog prostora za ugostiteljstvo, prodaju ili okupljanje.",
+    "areaLabel": "Površina prema katalogu",
+    "code": "SC-11",
+    "aliases": [
+      "SC-11",
+      "双层11",
+      "Duplex 11"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 12
+      }
+    ],
+    "gallery": [
+      "duplex96-detail"
+    ]
+  },
+  {
+    "id": "duplex72",
+    "name": "Duplex 72",
+    "category": "Modularni objekti",
+    "area": "72 m²",
+    "image": "duplex-8",
+    "source": "双层款式 p.8 / 双层07",
+    "description": "Jasna geometrija i terasa na spratu. Polazna ideja za kafe, prodajni prostor ili prijem gostiju.",
+    "areaLabel": "Površina prema katalogu",
+    "code": "SC-07",
+    "aliases": [
+      "SC-07",
+      "双层07",
+      "Duplex 07"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 8
+      }
+    ],
+    "gallery": [
+      "duplex72-detail"
+    ]
+  },
+  {
+    "id": "mengmeng-8",
+    "name": "X3",
+    "category": "Svemirske kapsule",
+    "area": "18 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "5,6  ×  3,3  ×  3,2m",
+    "weight": "4 t",
+    "note": "",
+    "image": "mengmeng-8",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.8",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kapsula iz kolekcije Mengmengwu za odmor i turistički smeštaj.",
+    "code": "MM-08",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 8
+      }
+    ],
+    "aliases": [
+      "MM-08"
+    ]
+  },
+  {
+    "id": "mengmeng-9",
+    "name": "X5",
+    "category": "Svemirske kapsule",
+    "area": "28 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "8,5  ×  3,3  ×  3,2m",
+    "weight": "6 t",
+    "note": "",
+    "image": "mengmeng-9",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.9; 广东美墅产品画册.pdf / PDF p.62",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kapsula iz kolekcije Mengmengwu za odmor i turistički smeštaj.",
+    "code": "MM-09",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 9
+      },
+      {
+        "document": "meishu",
+        "page": 62
+      }
+    ],
+    "aliases": [
+      "MM-09"
+    ]
+  },
+  {
+    "id": "mengmeng-10",
+    "name": "X6",
+    "category": "Svemirske kapsule",
+    "area": "31 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "9,5  ×  3,3  ×  3,2m",
+    "weight": "7 t",
+    "note": "",
+    "image": "mengmeng-10",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.10",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kapsula iz kolekcije Mengmengwu za odmor i turistički smeštaj.",
+    "code": "MM-10",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 10
+      }
+    ],
+    "aliases": [
+      "MM-10"
+    ]
+  },
+  {
+    "id": "mengmeng-11",
+    "name": "X7",
+    "category": "Svemirske kapsule",
+    "area": "38 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "11,5  ×  3,3  ×  3,2m",
+    "weight": "8 t",
+    "note": "",
+    "image": "mengmeng-11",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.11; 广东美墅产品画册.pdf / PDF p.63",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kapsula iz kolekcije Mengmengwu za odmor i turistički smeštaj.",
+    "code": "MM-11",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 11
+      },
+      {
+        "document": "meishu",
+        "page": 63
+      }
+    ],
+    "aliases": [
+      "MM-11"
+    ]
+  },
+  {
+    "id": "mengmeng-12",
+    "name": "V6",
+    "category": "Svemirske kapsule",
+    "area": "37 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "5,55  ×  4,05  ×  5,1m",
+    "weight": "6 t",
+    "note": "Razlika u izvorima: detaljni list navodi 37 m² i visinu 5,1 m; drugi katalog navodi 38 m² i 5,2 m. Potvrditi pre ponude.",
+    "image": "mengmeng-12",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.12; 广东美墅产品画册.pdf / PDF p.64",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kapsula iz kolekcije Mengmengwu za odmor i turistički smeštaj.",
+    "code": "MM-12",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 12
+      },
+      {
+        "document": "meishu",
+        "page": 64
+      }
+    ],
+    "aliases": [
+      "MM-12"
+    ]
+  },
+  {
+    "id": "mengmeng-13",
+    "name": "M9",
+    "category": "Svemirske kapsule",
+    "area": "38 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "11,5  ×  3,3  ×  3,4m",
+    "weight": "8 t",
+    "note": "",
+    "image": "mengmeng-13",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.13",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kapsula iz kolekcije Mengmengwu za odmor i turistički smeštaj.",
+    "code": "MM-13",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 13
+      }
+    ],
+    "aliases": [
+      "MM-13"
+    ]
+  },
+  {
+    "id": "mengmeng-14",
+    "name": "M18",
+    "category": "Svemirske kapsule",
+    "area": "18 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "5,6  ×  3,3  ×  3,2m",
+    "weight": "4 t",
+    "note": "",
+    "image": "mengmeng-14",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.14",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kapsula iz kolekcije Mengmengwu za odmor i turistički smeštaj.",
+    "code": "MM-14",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 14
+      }
+    ],
+    "aliases": [
+      "MM-14"
+    ]
+  },
+  {
+    "id": "mengmeng-15",
+    "name": "M25",
+    "category": "Svemirske kapsule",
+    "area": "25 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "7,5  ×  3,3  ×  3,2m",
+    "weight": "6 t",
+    "note": "Detaljni list navodi 25 m², pregled serije 21 m². Za ponudu je potrebna potvrda proizvođača.",
+    "image": "mengmeng-15",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.15",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kapsula iz kolekcije Mengmengwu za odmor i turistički smeštaj.",
+    "code": "MM-15",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 15
+      }
+    ],
+    "aliases": [
+      "MM-15"
+    ]
+  },
+  {
+    "id": "mengmeng-16",
+    "name": "M28",
+    "category": "Svemirske kapsule",
+    "area": "28 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "8,5  ×  3,3  ×  3,2m",
+    "weight": "7 t",
+    "note": "",
+    "image": "mengmeng-16",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.16",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kapsula iz kolekcije Mengmengwu za odmor i turistički smeštaj.",
+    "code": "MM-16",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 16
+      }
+    ],
+    "aliases": [
+      "MM-16"
+    ]
+  },
+  {
+    "id": "mengmeng-17",
+    "name": "M31",
+    "category": "Svemirske kapsule",
+    "area": "31 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "9,5  ×  3,3  ×  3,2m",
+    "weight": "8 t",
+    "note": "Model je označen kao M31 u kineskom naslovu i pregledu, a kao M25 u engleskom naslovu detaljnog lista. Potvrditi oznaku.",
+    "image": "mengmeng-17",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.17",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kapsula iz kolekcije Mengmengwu za odmor i turistički smeštaj.",
+    "code": "MM-17",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 17
+      }
+    ],
+    "aliases": [
+      "MM-17"
+    ]
+  },
+  {
+    "id": "mengmeng-20",
+    "name": "S3",
+    "category": "Apple kabine",
+    "area": "12,3 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": "4 t",
+    "note": "Podaci o dimenzijama ili rasporedu nisu potpuno usklađeni u izvornom listu. Konačne mere i konfiguraciju potvrditi pre ponude.",
+    "image": "mengmeng-20",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.20",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Apple kabina iz kolekcije Mengmengwu sa modularnim rasporedom.",
+    "code": "MM-20",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 20
+      }
+    ],
+    "aliases": [
+      "MM-20"
+    ]
+  },
+  {
+    "id": "mengmeng-21",
+    "name": "P3",
+    "category": "Apple kabine",
+    "area": "18 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "5,6  ×  3,3  ×  3,2m",
+    "weight": "4 t",
+    "note": "",
+    "image": "mengmeng-21",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.21",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Apple kabina iz kolekcije Mengmengwu sa modularnim rasporedom.",
+    "code": "MM-21",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 21
+      }
+    ],
+    "aliases": [
+      "MM-21"
+    ]
+  },
+  {
+    "id": "mengmeng-22",
+    "name": "P5",
+    "category": "Apple kabine",
+    "area": "31 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "9,5  ×  3,3  ×  3,2m",
+    "weight": "6 t",
+    "note": "",
+    "image": "mengmeng-22",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.22",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Apple kabina iz kolekcije Mengmengwu sa modularnim rasporedom.",
+    "code": "MM-22",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 22
+      }
+    ],
+    "aliases": [
+      "MM-22"
+    ]
+  },
+  {
+    "id": "mengmeng-23",
+    "name": "P6",
+    "category": "Apple kabine",
+    "area": "56 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": "12 t",
+    "note": "Podaci o dimenzijama ili rasporedu nisu potpuno usklađeni u izvornom listu. Konačne mere i konfiguraciju potvrditi pre ponude.",
+    "image": "mengmeng-23",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.23",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Apple kabina iz kolekcije Mengmengwu sa modularnim rasporedom.",
+    "code": "MM-23",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 23
+      }
+    ],
+    "aliases": [
+      "MM-23"
+    ]
+  },
+  {
+    "id": "mengmeng-24",
+    "name": "P7",
+    "category": "Apple kabine",
+    "area": "38 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "11,5  ×  3,3  ×  3,2m",
+    "weight": "8 t",
+    "note": "",
+    "image": "mengmeng-24",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.24",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Apple kabina iz kolekcije Mengmengwu sa modularnim rasporedom.",
+    "code": "MM-24",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 24
+      }
+    ],
+    "aliases": [
+      "MM-24"
+    ]
+  },
+  {
+    "id": "mengmeng-28",
+    "name": "Ya Ju H",
+    "category": "Gotove kabine",
+    "area": "23 m²",
+    "areaLabel": "Površina modela",
+    "interior": "18 m²",
+    "footprint": null,
+    "dimensions": "7,8  ×  3,3  ×  3,4m",
+    "weight": "5 t",
+    "note": "",
+    "image": "mengmeng-28",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.28",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-28",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 28
+      }
+    ],
+    "aliases": [
+      "MM-28"
+    ]
+  },
+  {
+    "id": "mengmeng-29",
+    "name": "Camp No. 2",
+    "category": "Gotove kabine",
+    "area": "24 m²",
+    "areaLabel": "Površina modela",
+    "interior": "19 m²",
+    "footprint": null,
+    "dimensions": "6,6  ×  3,3  ×  3,4m",
+    "weight": "5 t",
+    "note": "",
+    "image": "mengmeng-29",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.29",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-29",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 29
+      }
+    ],
+    "aliases": [
+      "MM-29"
+    ]
+  },
+  {
+    "id": "mengmeng-30",
+    "name": "Lunar",
+    "category": "Gotove kabine",
+    "area": "29 m²",
+    "areaLabel": "Površina modela",
+    "interior": "18 m²",
+    "footprint": null,
+    "dimensions": "8,9  ×  3,3  ×  3,2m",
+    "weight": "5 t",
+    "note": "",
+    "image": "mengmeng-30",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.30",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-30",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 30
+      }
+    ],
+    "aliases": [
+      "MM-30"
+    ]
+  },
+  {
+    "id": "mengmeng-31",
+    "name": "Egg",
+    "category": "Gotove kabine",
+    "area": "18 m²",
+    "areaLabel": "Površina modela",
+    "interior": "16 m²",
+    "footprint": null,
+    "dimensions": "6,1  ×  3,8  ×  3,3m",
+    "weight": "5 t",
+    "note": "",
+    "image": "mengmeng-31",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.31",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-31",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 31
+      }
+    ],
+    "aliases": [
+      "MM-31"
+    ]
+  },
+  {
+    "id": "mengmeng-32",
+    "name": "Yun Ju H",
+    "category": "Gotove kabine",
+    "area": "33 m²",
+    "areaLabel": "Površina modela",
+    "interior": "29 m²",
+    "footprint": null,
+    "dimensions": "10,0  ×  3,5  ×  3,4m",
+    "weight": "6 t",
+    "note": "",
+    "image": "mengmeng-32",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.32",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-32",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 32
+      }
+    ],
+    "aliases": [
+      "MM-32"
+    ]
+  },
+  {
+    "id": "mengmeng-33",
+    "name": "Shui An 1",
+    "category": "Gotove kabine",
+    "area": "51 m²",
+    "areaLabel": "Površina modela",
+    "interior": "19 m²",
+    "footprint": null,
+    "dimensions": "13,2  ×  4,9  ×  4,2m",
+    "weight": "5 t",
+    "note": "",
+    "image": "mengmeng-33",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.33",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-33",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 33
+      }
+    ],
+    "aliases": [
+      "MM-33"
+    ]
+  },
+  {
+    "id": "mengmeng-34",
+    "name": "Sydney H",
+    "category": "Gotove kabine",
+    "area": "27 m²",
+    "areaLabel": "Površina modela",
+    "interior": "22 m²",
+    "footprint": null,
+    "dimensions": "9,0  ×  3,3  ×  3,5m",
+    "weight": "5 t",
+    "note": "",
+    "image": "mengmeng-34",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.34",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-34",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 34
+      }
+    ],
+    "aliases": [
+      "MM-34"
+    ]
+  },
+  {
+    "id": "mengmeng-35",
+    "name": "Shui Wu H",
+    "category": "Gotove kabine",
+    "area": "42 m²",
+    "areaLabel": "Površina modela",
+    "interior": "19 m²",
+    "footprint": null,
+    "dimensions": "10,8  ×  3,3  ×  4,2m",
+    "weight": "5 t",
+    "note": "",
+    "image": "mengmeng-35",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.35",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-35",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 35
+      }
+    ],
+    "aliases": [
+      "MM-35"
+    ]
+  },
+  {
+    "id": "mengmeng-36",
+    "name": "Fang She A",
+    "category": "Gotove kabine",
+    "area": "42 m²",
+    "areaLabel": "Površina modela",
+    "interior": "27 m²",
+    "footprint": null,
+    "dimensions": "9,5  ×  4,4 ×  3,2m",
+    "weight": "5 t",
+    "note": "",
+    "image": "mengmeng-36",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.36",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-36",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 36
+      }
+    ],
+    "aliases": [
+      "MM-36"
+    ]
+  },
+  {
+    "id": "mengmeng-37",
+    "name": "Fang She B",
+    "category": "Gotove kabine",
+    "area": "46 m²",
+    "areaLabel": "Površina modela",
+    "interior": "32 m²",
+    "footprint": null,
+    "dimensions": "9,5  ×  5,9 ×  3,2m",
+    "weight": "6 t",
+    "note": "",
+    "image": "mengmeng-37",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.37",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-37",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 37
+      }
+    ],
+    "aliases": [
+      "MM-37"
+    ]
+  },
+  {
+    "id": "mengmeng-38",
+    "name": "Jing Xi Ju",
+    "category": "Gotove kabine",
+    "area": "34 m²",
+    "areaLabel": "Površina modela",
+    "interior": "20 m²",
+    "footprint": null,
+    "dimensions": "11,7  ×  4,0  ×  3,9m",
+    "weight": "6 t",
+    "note": "",
+    "image": "mengmeng-38",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.38",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-38",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 38
+      }
+    ],
+    "aliases": [
+      "MM-38"
+    ]
+  },
+  {
+    "id": "mengmeng-39",
+    "name": "Shu Sha H",
+    "category": "Gotove kabine",
+    "area": "43 m²",
+    "areaLabel": "Površina modela",
+    "interior": "20 m²",
+    "footprint": null,
+    "dimensions": "10,2  ×  5,1  ×  4,9m",
+    "weight": "6 t",
+    "note": "",
+    "image": "mengmeng-39",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.39",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-39",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 39
+      }
+    ],
+    "aliases": [
+      "MM-39"
+    ]
+  },
+  {
+    "id": "mengmeng-40",
+    "name": "Yi Ju H",
+    "category": "Gotove kabine",
+    "area": "43 m²",
+    "areaLabel": "Površina modela",
+    "interior": "20 m²",
+    "footprint": null,
+    "dimensions": "9,2  ×  5,4  ×  4,1m",
+    "weight": "7 t",
+    "note": "",
+    "image": "mengmeng-40",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.40",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-40",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 40
+      }
+    ],
+    "aliases": [
+      "MM-40"
+    ]
+  },
+  {
+    "id": "mengmeng-41",
+    "name": "Niao Chao H",
+    "category": "Gotove kabine",
+    "area": "39 m²",
+    "areaLabel": "Površina modela",
+    "interior": "23 m²",
+    "footprint": null,
+    "dimensions": "9,2  ×  4,5 ×  3,4m",
+    "weight": "5 t",
+    "note": "",
+    "image": "mengmeng-41",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.41",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-41",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 41
+      }
+    ],
+    "aliases": [
+      "MM-41"
+    ]
+  },
+  {
+    "id": "mengmeng-42",
+    "name": "Chao Ju H",
+    "category": "Gotove kabine",
+    "area": "39 m²",
+    "areaLabel": "Površina modela",
+    "interior": "23 m²",
+    "footprint": null,
+    "dimensions": "9,4  ×  4,5  ×  4,5m",
+    "weight": "5 t",
+    "note": "",
+    "image": "mengmeng-42",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.42",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-42",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 42
+      }
+    ],
+    "aliases": [
+      "MM-42"
+    ]
+  },
+  {
+    "id": "mengmeng-43",
+    "name": "Ya Qi · 4.0",
+    "category": "Gotove kabine",
+    "area": "93 m²",
+    "areaLabel": "Površina modela",
+    "interior": "50 m²",
+    "footprint": null,
+    "dimensions": "12,5  ×  10,0  ×  6,3m",
+    "weight": "12 t",
+    "note": "",
+    "image": "mengmeng-43",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.43",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-43",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 43
+      }
+    ],
+    "aliases": [
+      "MM-43"
+    ]
+  },
+  {
+    "id": "mengmeng-44",
+    "name": "Ya Qi · 3.5",
+    "category": "Gotove kabine",
+    "area": "82 m²",
+    "areaLabel": "Površina modela",
+    "interior": "44 m²",
+    "footprint": null,
+    "dimensions": "11,0  ×  9,8  ×  6,3m",
+    "weight": "10 t",
+    "note": "",
+    "image": "mengmeng-44",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.44",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-44",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 44
+      }
+    ],
+    "aliases": [
+      "MM-44"
+    ]
+  },
+  {
+    "id": "mengmeng-45",
+    "name": "Xiang Yun H",
+    "category": "Gotove kabine",
+    "area": "56 m²",
+    "areaLabel": "Površina modela",
+    "interior": "46 m²",
+    "footprint": null,
+    "dimensions": null,
+    "weight": "10 t",
+    "note": "Podaci o dimenzijama ili rasporedu nisu potpuno usklađeni u izvornom listu. Konačne mere i konfiguraciju potvrditi pre ponude.",
+    "image": "mengmeng-45",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.45",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-45",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 45
+      }
+    ],
+    "aliases": [
+      "MM-45"
+    ]
+  },
+  {
+    "id": "mengmeng-46",
+    "name": "BOX · 4",
+    "category": "Gotove kabine",
+    "area": "94 m²",
+    "areaLabel": "Površina modela",
+    "interior": "62 m²",
+    "footprint": null,
+    "dimensions": "14,0  ×  6,7  ×  3,3m",
+    "weight": "10 t",
+    "note": "",
+    "image": "mengmeng-46",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.46",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-46",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 46
+      }
+    ],
+    "aliases": [
+      "MM-46"
+    ]
+  },
+  {
+    "id": "mengmeng-47",
+    "name": "Magic Box",
+    "category": "Gotove kabine",
+    "area": "64 m²",
+    "areaLabel": "Površina modela",
+    "interior": null,
+    "footprint": null,
+    "dimensions": "16,0  ×  4,0  ×  3,3m",
+    "weight": "10 t",
+    "note": "",
+    "image": "mengmeng-47",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.47",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-47",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 47
+      }
+    ],
+    "aliases": [
+      "MM-47"
+    ]
+  },
+  {
+    "id": "mengmeng-48",
+    "name": "Shi Guang · M",
+    "category": "Gotove kabine",
+    "area": "43 m²",
+    "areaLabel": "Površina modela",
+    "interior": "25 m²",
+    "footprint": null,
+    "dimensions": "8,6  ×  5,4  ×  4,0m",
+    "weight": "8 t",
+    "note": "",
+    "image": "mengmeng-48",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.48",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Fabrički pripremljena kabina iz kolekcije za transport i podizanje dizalicom.",
+    "code": "MM-48",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 48
+      }
+    ],
+    "aliases": [
+      "MM-48"
+    ]
+  },
+  {
+    "id": "meishu-12",
+    "name": "Linglong 8 · 1",
+    "category": "Kuće u prirodi",
+    "area": "22,87 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "22,87 m²",
+    "footprint": "43,7 m²",
+    "dimensions": "7,4 × 7,2 × 6,6m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-12",
+    "source": "广东美墅产品画册.pdf / PDF p.12",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-12",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 12
+      }
+    ],
+    "aliases": [
+      "MS-12",
+      "八角玲珑（单层）"
+    ],
+    "gallery": [
+      "meishu-12-detail"
+    ],
+    "plan": "meishu-12-plan"
+  },
+  {
+    "id": "meishu-13",
+    "name": "Linglong 8 · 2",
+    "category": "Kuće u prirodi",
+    "area": "45,7 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "45,7 m²",
+    "footprint": "79,7 m²",
+    "dimensions": "7,8 × 8,1 × 9,1m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-13",
+    "source": "广东美墅产品画册.pdf / PDF p.13",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-13",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 13
+      }
+    ],
+    "aliases": [
+      "MS-13",
+      "八角玲珑（双层）"
+    ],
+    "gallery": [
+      "meishu-13-detail"
+    ],
+    "plan": "meishu-13-plan"
+  },
+  {
+    "id": "meishu-14",
+    "name": "Linglong Round · 1",
+    "category": "Kuće u prirodi",
+    "area": "22,84 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "22,84 m²",
+    "footprint": "41,7 m²",
+    "dimensions": "7,1 × 7,1 × 6,7m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-14",
+    "source": "广东美墅产品画册.pdf / PDF p.14",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-14",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 14
+      }
+    ],
+    "aliases": [
+      "MS-14",
+      "圆玲珑（单层）"
+    ],
+    "gallery": [
+      "meishu-14-detail"
+    ],
+    "plan": "meishu-14-plan"
+  },
+  {
+    "id": "meishu-15",
+    "name": "Linglong Round · 2",
+    "category": "Kuće u prirodi",
+    "area": "56,1 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "56,1 m²",
+    "footprint": "74,6 m²",
+    "dimensions": "8 × 7,6 × 9m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-15",
+    "source": "广东美墅产品画册.pdf / PDF p.15",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-15",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 15
+      }
+    ],
+    "aliases": [
+      "MS-15",
+      "圆玲珑（双层）"
+    ],
+    "gallery": [
+      "meishu-15-detail"
+    ],
+    "plan": "meishu-15-plan"
+  },
+  {
+    "id": "meishu-16",
+    "name": "Linglong Tall",
+    "category": "Kuće u prirodi",
+    "area": "23 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "23 m²",
+    "footprint": "42 m²",
+    "dimensions": "7,3 × 7,2 × 12m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-16",
+    "source": "广东美墅产品画册.pdf / PDF p.16",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-16",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 16
+      }
+    ],
+    "aliases": [
+      "MS-16",
+      "高玲珑"
+    ],
+    "gallery": [
+      "meishu-16-detail"
+    ],
+    "plan": "meishu-16-plan"
+  },
+  {
+    "id": "meishu-17",
+    "name": "Tea House",
+    "category": "Kuće u prirodi",
+    "area": "32,3 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "32,3 m²",
+    "footprint": "50 m²",
+    "dimensions": "12,4 × 5,9 × 5,3m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-17",
+    "source": "广东美墅产品画册.pdf / PDF p.17",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-17",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 17
+      }
+    ],
+    "aliases": [
+      "MS-17",
+      "茶之屋"
+    ],
+    "gallery": [
+      "meishu-17-detail"
+    ],
+    "plan": "meishu-17-plan"
+  },
+  {
+    "id": "meishu-18",
+    "name": "Ye Wu",
+    "category": "Kuće u prirodi",
+    "area": "88,95 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "88,95 m²",
+    "footprint": "138,3 m²",
+    "dimensions": "15 × 6,4 × 6m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-18",
+    "source": "广东美墅产品画册.pdf / PDF p.18",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-18",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 18
+      }
+    ],
+    "aliases": [
+      "MS-18",
+      "叶 舞"
+    ],
+    "gallery": [
+      "meishu-18-detail"
+    ],
+    "plan": "meishu-18-plan"
+  },
+  {
+    "id": "meishu-19",
+    "name": "Lin Su",
+    "category": "Kuće u prirodi",
+    "area": "24,3 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "24,3 m²",
+    "footprint": "50,1 m²",
+    "dimensions": "8 × 8 × 8,7m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-19",
+    "source": "广东美墅产品画册.pdf / PDF p.19",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-19",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 19
+      }
+    ],
+    "aliases": [
+      "MS-19",
+      "林 宿"
+    ],
+    "gallery": [
+      "meishu-19-detail"
+    ],
+    "plan": "meishu-19-plan"
+  },
+  {
+    "id": "meishu-20",
+    "name": "Shu Sha",
+    "category": "Kuće u prirodi",
+    "area": "27,4 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "27,4 m²",
+    "footprint": "45 m²",
+    "dimensions": "11 × 4,7 × 4,1m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-20",
+    "source": "广东美墅产品画册.pdf / PDF p.20",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-20",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 20
+      }
+    ],
+    "aliases": [
+      "MS-20",
+      "树 鲨"
+    ],
+    "gallery": [
+      "meishu-20-detail"
+    ],
+    "plan": "meishu-20-plan"
+  },
+  {
+    "id": "meishu-21",
+    "name": "Mushroom · 1",
+    "category": "Kuće u prirodi",
+    "area": "22,9 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "22,9 m²",
+    "footprint": "56,5 m²",
+    "dimensions": "8,5 × 8,5 × 6,2m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-21",
+    "source": "广东美墅产品画册.pdf / PDF p.21",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-21",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 21
+      }
+    ],
+    "aliases": [
+      "MS-21",
+      "单层蘑菇"
+    ],
+    "gallery": [
+      "meishu-21-detail"
+    ],
+    "plan": "meishu-21-plan"
+  },
+  {
+    "id": "meishu-22",
+    "name": "Mushroom · 2",
+    "category": "Kuće u prirodi",
+    "area": "83,4 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "83,4 m²",
+    "footprint": "133 m²",
+    "dimensions": "8 × 8,7 × 8,6m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-22",
+    "source": "广东美墅产品画册.pdf / PDF p.22",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-22",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 22
+      }
+    ],
+    "aliases": [
+      "MS-22",
+      "双层蘑菇"
+    ],
+    "gallery": [
+      "meishu-22-detail"
+    ],
+    "plan": "meishu-22-plan"
+  },
+  {
+    "id": "meishu-23",
+    "name": "Dao Xiang Ju",
+    "category": "Kuće u prirodi",
+    "area": "33,8 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "33,8 m²",
+    "footprint": "54,1 m²",
+    "dimensions": "9,8 × 5,6 × 4,6m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-23",
+    "source": "广东美墅产品画册.pdf / PDF p.23",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-23",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 23
+      }
+    ],
+    "aliases": [
+      "MS-23",
+      "稻香居"
+    ],
+    "gallery": [
+      "meishu-23-detail"
+    ],
+    "plan": "meishu-23-plan"
+  },
+  {
+    "id": "meishu-24",
+    "name": "Luo Xin",
+    "category": "Kuće u prirodi",
+    "area": "22,7 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "22,7 m²",
+    "footprint": "50 m²",
+    "dimensions": "7,9 × 7,9 × 5,1m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-24",
+    "source": "广东美墅产品画册.pdf / PDF p.24",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-24",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 24
+      }
+    ],
+    "aliases": [
+      "MS-24",
+      "裸 心"
+    ],
+    "gallery": [
+      "meishu-24-detail"
+    ],
+    "plan": "meishu-24-plan"
+  },
+  {
+    "id": "meishu-25",
+    "name": "Ai Chao",
+    "category": "Kuće u prirodi",
+    "area": "24,31 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "24,31 m²",
+    "footprint": "47,9 m²",
+    "dimensions": "8,9 × 5,7 × 4,4m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-25",
+    "source": "广东美墅产品画册.pdf / PDF p.25",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-25",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 25
+      }
+    ],
+    "aliases": [
+      "MS-25",
+      "爱 巢"
+    ],
+    "gallery": [
+      "meishu-25-detail"
+    ],
+    "plan": "meishu-25-plan"
+  },
+  {
+    "id": "meishu-26",
+    "name": "Ye Ju",
+    "category": "Kuće u prirodi",
+    "area": "26,51 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "26,51 m²",
+    "footprint": "44,5 m²",
+    "dimensions": "9,2 × 6,2 × 3,7m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-26",
+    "source": "广东美墅产品画册.pdf / PDF p.26",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-26",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 26
+      }
+    ],
+    "aliases": [
+      "MS-26",
+      "叶 居"
+    ],
+    "gallery": [
+      "meishu-26-detail"
+    ],
+    "plan": "meishu-26-plan"
+  },
+  {
+    "id": "meishu-27",
+    "name": "Yi Ju",
+    "category": "Kuće u prirodi",
+    "area": "40,47 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "40,47 m²",
+    "footprint": "43,2 m²",
+    "dimensions": "7,5 × 5,4 × 3,5m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-27",
+    "source": "广东美墅产品画册.pdf / PDF p.27",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-27",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 27
+      }
+    ],
+    "aliases": [
+      "MS-27",
+      "蚁 居"
+    ],
+    "gallery": [
+      "meishu-27-detail"
+    ],
+    "plan": "meishu-27-plan"
+  },
+  {
+    "id": "meishu-28",
+    "name": "Ling Xiao",
+    "category": "Kuće u prirodi",
+    "area": "42 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "42 m²",
+    "footprint": "72 m²",
+    "dimensions": "17,3 × 8,8 × 15,5m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-28",
+    "source": "广东美墅产品画册.pdf / PDF p.28",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-28",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 28
+      }
+    ],
+    "aliases": [
+      "MS-28",
+      "凌 霄"
+    ],
+    "gallery": [
+      "meishu-28-detail"
+    ],
+    "plan": "meishu-28-plan"
+  },
+  {
+    "id": "meishu-29",
+    "name": "Honeycomb",
+    "category": "Kuće u prirodi",
+    "area": "103 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "103 m²",
+    "footprint": "60 m²",
+    "dimensions": "10 × 7 × 7m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-29",
+    "source": "广东美墅产品画册.pdf / PDF p.29",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-29",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 29
+      }
+    ],
+    "aliases": [
+      "MS-29",
+      "蜂巢"
+    ],
+    "gallery": [
+      "meishu-29-detail"
+    ],
+    "plan": "meishu-29-plan"
+  },
+  {
+    "id": "meishu-30",
+    "name": "Yun Xiao",
+    "category": "Kuće u prirodi",
+    "area": "84 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "84 m²",
+    "footprint": "178 m²",
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-30",
+    "source": "广东美墅产品画册.pdf / PDF p.30",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Organske forme i prepoznatljiva silueta za odmor u prirodi.",
+    "code": "MS-30",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 30
+      }
+    ],
+    "aliases": [
+      "MS-30",
+      "云 霄"
+    ],
+    "gallery": [
+      "meishu-30-detail"
+    ],
+    "plan": "meishu-30-plan"
+  },
+  {
+    "id": "meishu-32",
+    "name": "Tu Yu",
+    "category": "Savremene kuće",
+    "area": "54,8 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "54,8 m²",
+    "footprint": "68,4 m²",
+    "dimensions": "9 × 5 × 7m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-32",
+    "source": "广东美墅产品画册.pdf / PDF p.32",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-32",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 32
+      }
+    ],
+    "aliases": [
+      "MS-32",
+      "途 语"
+    ],
+    "gallery": [
+      "meishu-32-detail"
+    ],
+    "plan": "meishu-32-plan"
+  },
+  {
+    "id": "meishu-33",
+    "name": "Jian Ju · 1",
+    "category": "Savremene kuće",
+    "area": "34,4 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "34,4 m²",
+    "footprint": "39,8 m²",
+    "dimensions": "5,3 × 7,4 × 5,4m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-33",
+    "source": "广东美墅产品画册.pdf / PDF p.33",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-33",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 33
+      }
+    ],
+    "aliases": [
+      "MS-33",
+      "简 居 ( 单层 )"
+    ],
+    "gallery": [
+      "meishu-33-detail"
+    ],
+    "plan": "meishu-33-plan"
+  },
+  {
+    "id": "meishu-34",
+    "name": "Jian Ju · 2",
+    "category": "Savremene kuće",
+    "area": "57 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "57 m²",
+    "footprint": "81,4 m²",
+    "dimensions": "8,3 × 6 × 6m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-34",
+    "source": "广东美墅产品画册.pdf / PDF p.34",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-34",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 34
+      }
+    ],
+    "aliases": [
+      "MS-34",
+      "简 居 ( 双层 )"
+    ],
+    "gallery": [
+      "meishu-34-detail"
+    ],
+    "plan": "meishu-34-plan"
+  },
+  {
+    "id": "meishu-35",
+    "name": "Yuan Ye",
+    "category": "Savremene kuće",
+    "area": "55,5 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "55,5 m²",
+    "footprint": "85 m²",
+    "dimensions": "6,6 × 8,4 × 6m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-35",
+    "source": "广东美墅产品画册.pdf / PDF p.35",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-35",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 35
+      }
+    ],
+    "aliases": [
+      "MS-35",
+      "原野"
+    ],
+    "gallery": [
+      "meishu-35-detail"
+    ],
+    "plan": "meishu-35-plan"
+  },
+  {
+    "id": "meishu-36",
+    "name": "Geometry · 2",
+    "category": "Savremene kuće",
+    "area": "60 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "60 m²",
+    "footprint": "72,2 m²",
+    "dimensions": "7,5 × 5,8 × 5,7m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-36",
+    "source": "广东美墅产品画册.pdf / PDF p.36",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-36",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 36
+      }
+    ],
+    "aliases": [
+      "MS-36",
+      "双层几何"
+    ],
+    "gallery": [
+      "meishu-36-detail"
+    ],
+    "plan": "meishu-36-plan"
+  },
+  {
+    "id": "meishu-37",
+    "name": "Yun She",
+    "category": "Savremene kuće",
+    "area": "65,6 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "65,6 m²",
+    "footprint": "101 m²",
+    "dimensions": "10,7 × 7,9 × 7m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-37",
+    "source": "广东美墅产品画册.pdf / PDF p.37",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-37",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 37
+      }
+    ],
+    "aliases": [
+      "MS-37",
+      "云 奢"
+    ],
+    "gallery": [
+      "meishu-37-detail"
+    ],
+    "plan": "meishu-37-plan"
+  },
+  {
+    "id": "meishu-38",
+    "name": "Gui Chao · L",
+    "category": "Savremene kuće",
+    "area": "39 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "39 m²",
+    "footprint": "73,9 m²",
+    "dimensions": "10,8 × 7,7 × 4,7m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-38",
+    "source": "广东美墅产品画册.pdf / PDF p.38",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-38",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 38
+      }
+    ],
+    "aliases": [
+      "MS-38",
+      "大归巢"
+    ],
+    "gallery": [
+      "meishu-38-detail"
+    ],
+    "plan": "meishu-38-plan"
+  },
+  {
+    "id": "meishu-39",
+    "name": "Gui Chao · S",
+    "category": "Savremene kuće",
+    "area": "36 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "36 m²",
+    "footprint": "73 m²",
+    "dimensions": "10,8 × 7,7 × 5,8m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-39",
+    "source": "广东美墅产品画册.pdf / PDF p.39",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-39",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 39
+      }
+    ],
+    "aliases": [
+      "MS-39",
+      "小归巢"
+    ],
+    "gallery": [
+      "meishu-39-detail"
+    ],
+    "plan": "meishu-39-plan"
+  },
+  {
+    "id": "meishu-40",
+    "name": "Chun Shu",
+    "category": "Savremene kuće",
+    "area": "72,4 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "72,4 m²",
+    "footprint": "74,3 m²",
+    "dimensions": "13 × 11,3 × 5,4m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-40",
+    "source": "广东美墅产品画册.pdf / PDF p.40",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-40",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 40
+      }
+    ],
+    "aliases": [
+      "MS-40",
+      "春 树"
+    ],
+    "gallery": [
+      "meishu-40-detail"
+    ],
+    "plan": "meishu-40-plan"
+  },
+  {
+    "id": "meishu-41",
+    "name": "Xie Yu Zhu",
+    "category": "Savremene kuće",
+    "area": "73,3 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "73,3 m²",
+    "footprint": "91 m²",
+    "dimensions": "12,8 × 11 × 3,8m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-41",
+    "source": "广东美墅产品画册.pdf / PDF p.41",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-41",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 41
+      }
+    ],
+    "aliases": [
+      "MS-41",
+      "歇与驻"
+    ],
+    "gallery": [
+      "meishu-41-detail"
+    ],
+    "plan": "meishu-41-plan"
+  },
+  {
+    "id": "meishu-42",
+    "name": "Yuan Wang",
+    "category": "Savremene kuće",
+    "area": "76,6 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "76,6 m²",
+    "footprint": "152,9 m²",
+    "dimensions": "9,4 × 8,8 × 9m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-42",
+    "source": "广东美墅产品画册.pdf / PDF p.42",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "terrace": "113,2 m²",
+    "code": "MS-42",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 42
+      }
+    ],
+    "aliases": [
+      "MS-42",
+      "远 望"
+    ],
+    "gallery": [
+      "meishu-42-detail"
+    ],
+    "plan": "meishu-42-plan"
+  },
+  {
+    "id": "meishu-43",
+    "name": "Ya Ju · 1",
+    "category": "Savremene kuće",
+    "area": "34,5 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "34,5 m²",
+    "footprint": "38,6 m²",
+    "dimensions": "7 × 5,4 × 5,1m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-43",
+    "source": "广东美墅产品画册.pdf / PDF p.43",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-43",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 43
+      }
+    ],
+    "aliases": [
+      "MS-43",
+      "单层雅居"
+    ],
+    "gallery": [
+      "meishu-43-detail"
+    ],
+    "plan": "meishu-43-plan"
+  },
+  {
+    "id": "meishu-44",
+    "name": "Ya Ju · 2",
+    "category": "Savremene kuće",
+    "area": "68,8 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "68,8 m²",
+    "footprint": "77,4 m²",
+    "dimensions": "6,9 × 5,5 × 5,7m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-44",
+    "source": "广东美墅产品画册.pdf / PDF p.44",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-44",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 44
+      }
+    ],
+    "aliases": [
+      "MS-44",
+      "双层雅居"
+    ],
+    "gallery": [
+      "meishu-44-detail"
+    ],
+    "plan": "meishu-44-plan"
+  },
+  {
+    "id": "meishu-45",
+    "name": "Qing She",
+    "category": "Savremene kuće",
+    "area": "78,8 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "78,8 m²",
+    "footprint": "100,6 m²",
+    "dimensions": "11,6 × 5,6 × 8,5m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-45",
+    "source": "广东美墅产品画册.pdf / PDF p.45",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "terrace": "24,2 m²",
+    "code": "MS-45",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 45
+      }
+    ],
+    "aliases": [
+      "MS-45",
+      "轻 奢"
+    ],
+    "gallery": [
+      "meishu-45-detail"
+    ],
+    "plan": "meishu-45-plan"
+  },
+  {
+    "id": "meishu-46",
+    "name": "Ya Ge",
+    "category": "Savremene kuće",
+    "area": "29 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "29 m²",
+    "footprint": "32 m²",
+    "dimensions": "8 × 4 × 3,5m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-46",
+    "source": "广东美墅产品画册.pdf / PDF p.46",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-46",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 46
+      }
+    ],
+    "aliases": [
+      "MS-46",
+      "雅 阁"
+    ],
+    "gallery": [
+      "meishu-46-detail"
+    ],
+    "plan": "meishu-46-plan"
+  },
+  {
+    "id": "meishu-47",
+    "name": "An Hei",
+    "category": "Savremene kuće",
+    "area": "45,5 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "45,5 m²",
+    "footprint": "51 m²",
+    "dimensions": "11 × 4,5 × 3m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-47",
+    "source": "广东美墅产品画册.pdf / PDF p.47",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-47",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 47
+      }
+    ],
+    "aliases": [
+      "MS-47",
+      "暗 黑"
+    ],
+    "gallery": [
+      "meishu-47-detail"
+    ],
+    "plan": "meishu-47-plan"
+  },
+  {
+    "id": "meishu-48",
+    "name": "Shan She",
+    "category": "Savremene kuće",
+    "area": "106,5 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "106,5 m²",
+    "footprint": "138,3 m²",
+    "dimensions": "14 × 7,3 × 7,6m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-48",
+    "source": "广东美墅产品画册.pdf / PDF p.48",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Savremena arhitektura za privatni odmor ili turistički smeštaj.",
+    "code": "MS-48",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 48
+      }
+    ],
+    "aliases": [
+      "MS-48",
+      "山 舍"
+    ],
+    "gallery": [
+      "meishu-48-detail"
+    ],
+    "plan": "meishu-48-plan"
+  },
+  {
+    "id": "meishu-50",
+    "name": "Su Xi",
+    "category": "Kuće uz vodu",
+    "area": "40,5 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "40,5 m²",
+    "footprint": "43,2 m²",
+    "dimensions": "7,5 × 5,4 × 3,5m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-50",
+    "source": "广东美墅产品画册.pdf / PDF p.50",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Koncept boravka uz vodu, sa pogledom ka prirodnom okruženju.",
+    "code": "MS-50",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 50
+      }
+    ],
+    "aliases": [
+      "MS-50",
+      "宿 兮"
+    ],
+    "gallery": [
+      "meishu-50-detail"
+    ],
+    "plan": "meishu-50-plan"
+  },
+  {
+    "id": "meishu-51",
+    "name": "Shui Wu",
+    "category": "Kuće uz vodu",
+    "area": "36,2 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "36,2 m²",
+    "footprint": "70 m²",
+    "dimensions": "15,7 × 5,2 × 4,4m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-51",
+    "source": "广东美墅产品画册.pdf / PDF p.51",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Koncept boravka uz vodu, sa pogledom ka prirodnom okruženju.",
+    "terrace": "64,6 m²",
+    "code": "MS-51",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 51
+      }
+    ],
+    "aliases": [
+      "MS-51",
+      "水 舞"
+    ],
+    "gallery": [
+      "meishu-51-detail"
+    ],
+    "plan": "meishu-51-plan"
+  },
+  {
+    "id": "meishu-52",
+    "name": "Sydney · 1",
+    "category": "Kuće uz vodu",
+    "area": "51,4 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "51,4 m²",
+    "footprint": "46,1 m²",
+    "dimensions": "10 × 4,5 × 4,2m",
+    "weight": null,
+    "note": "Izvor navodi unutrašnju površinu veću od projekcione površine; obe vrednosti treba proveriti pre ponude.",
+    "image": "meishu-52",
+    "source": "广东美墅产品画册.pdf / PDF p.52",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Koncept boravka uz vodu, sa pogledom ka prirodnom okruženju.",
+    "code": "MS-52",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 52
+      }
+    ],
+    "aliases": [
+      "MS-52",
+      "悉 尼（单层）"
+    ],
+    "gallery": [
+      "meishu-52-detail"
+    ],
+    "plan": "meishu-52-plan"
+  },
+  {
+    "id": "meishu-53",
+    "name": "Sydney · 2",
+    "category": "Kuće uz vodu",
+    "area": "94,7 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "94,7 m²",
+    "footprint": "106,1 m²",
+    "dimensions": "10 × 5,5 × 6m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-53",
+    "source": "广东美墅产品画册.pdf / PDF p.53",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Koncept boravka uz vodu, sa pogledom ka prirodnom okruženju.",
+    "code": "MS-53",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 53
+      }
+    ],
+    "aliases": [
+      "MS-53",
+      "悉 尼（双层）"
+    ],
+    "gallery": [
+      "meishu-53-detail"
+    ],
+    "plan": "meishu-53-plan"
+  },
+  {
+    "id": "meishu-54",
+    "name": "Yu Su",
+    "category": "Kuće uz vodu",
+    "area": "31,8 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "31,8 m²",
+    "footprint": "57,2 m²",
+    "dimensions": "13,9 × 6,3 × 4,3m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-54",
+    "source": "广东美墅产品画册.pdf / PDF p.54",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Koncept boravka uz vodu, sa pogledom ka prirodnom okruženju.",
+    "code": "MS-54",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 54
+      }
+    ],
+    "aliases": [
+      "MS-54",
+      "渔 宿"
+    ],
+    "gallery": [
+      "meishu-54-detail"
+    ],
+    "plan": "meishu-54-plan"
+  },
+  {
+    "id": "meishu-56",
+    "name": "Bi Yu Ge",
+    "category": "Azijski stil",
+    "area": "95 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "95 m²",
+    "footprint": "50 m²",
+    "dimensions": "9,3 × 5,1 × 7m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-56",
+    "source": "广东美墅产品画册.pdf / PDF p.56",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Arhitektonski koncept inspirisan savremenim azijskim stilom.",
+    "code": "MS-56",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 56
+      }
+    ],
+    "aliases": [
+      "MS-56",
+      "碧御阁"
+    ],
+    "gallery": [
+      "meishu-56-detail"
+    ],
+    "plan": "meishu-56-plan"
+  },
+  {
+    "id": "meishu-57",
+    "name": "Qing Feng",
+    "category": "Azijski stil",
+    "area": "108 m²",
+    "areaLabel": "Projekciona površina",
+    "interior": null,
+    "footprint": "108 m²",
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-57",
+    "source": "广东美墅产品画册.pdf / PDF p.57",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Arhitektonski koncept inspirisan savremenim azijskim stilom.",
+    "code": "MS-57",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 57
+      }
+    ],
+    "aliases": [
+      "MS-57",
+      "清风小筑"
+    ],
+    "gallery": [
+      "meishu-57-detail"
+    ],
+    "plan": "meishu-57-plan"
+  },
+  {
+    "id": "meishu-58",
+    "name": "Ben Xin",
+    "category": "Azijski stil",
+    "area": "96,42 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "96,42 m²",
+    "footprint": "140,49 m²",
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-58",
+    "source": "广东美墅产品画册.pdf / PDF p.58",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Arhitektonski koncept inspirisan savremenim azijskim stilom.",
+    "code": "MS-58",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 58
+      }
+    ],
+    "aliases": [
+      "MS-58",
+      "本心小筑"
+    ],
+    "gallery": [
+      "meishu-58-detail"
+    ],
+    "plan": "meishu-58-plan"
+  },
+  {
+    "id": "meishu-59",
+    "name": "Qi Yu",
+    "category": "Azijski stil",
+    "area": "45 m²",
+    "areaLabel": "Projekciona površina",
+    "interior": null,
+    "footprint": "45 m²",
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-59",
+    "source": "广东美墅产品画册.pdf / PDF p.59",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Arhitektonski koncept inspirisan savremenim azijskim stilom.",
+    "code": "MS-59",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 59
+      }
+    ],
+    "aliases": [
+      "MS-59",
+      "栖 语"
+    ],
+    "gallery": [
+      "meishu-59-detail"
+    ],
+    "plan": "meishu-59-plan"
+  },
+  {
+    "id": "meishu-60",
+    "name": "Xing Su",
+    "category": "Azijski stil",
+    "area": "24 m²",
+    "areaLabel": "Unutrašnja površina",
+    "interior": "24 m²",
+    "footprint": "30 m²",
+    "dimensions": "8 × 3,7 × 4m",
+    "weight": null,
+    "note": "",
+    "image": "meishu-60",
+    "source": "广东美墅产品画册.pdf / PDF p.60",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Arhitektonski koncept inspirisan savremenim azijskim stilom.",
+    "code": "MS-60",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 60
+      }
+    ],
+    "aliases": [
+      "MS-60",
+      "星 宿"
+    ],
+    "gallery": [
+      "meishu-60-detail"
+    ],
+    "plan": "meishu-60-plan"
+  },
+  {
+    "id": "meishu-66",
+    "name": "Fairytale Boat A",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-66",
+    "source": "广东美墅产品画册.pdf / PDF p.66",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-66",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 66
+      }
+    ],
+    "aliases": [
+      "MS-66",
+      "童话艇 A·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-67",
+    "name": "Fairytale Boat B",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-67",
+    "source": "广东美墅产品画册.pdf / PDF p.67",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-67",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 67
+      }
+    ],
+    "aliases": [
+      "MS-67",
+      "童话艇 B·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-68",
+    "name": "Fairytale Boat C",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-68",
+    "source": "广东美墅产品画册.pdf / PDF p.68",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-68",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 68
+      }
+    ],
+    "aliases": [
+      "MS-68",
+      "童话艇 C·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-69",
+    "name": "Magic Tree A",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-69",
+    "source": "广东美墅产品画册.pdf / PDF p.69",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-69",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 69
+      }
+    ],
+    "aliases": [
+      "MS-69",
+      "魔法树屋 A·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-70",
+    "name": "Magic Tree B",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-70",
+    "source": "广东美墅产品画册.pdf / PDF p.70",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-70",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 70
+      }
+    ],
+    "aliases": [
+      "MS-70",
+      "魔法树屋 B·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-71",
+    "name": "Magic Tree C",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-71",
+    "source": "广东美墅产品画册.pdf / PDF p.71",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-71",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 71
+      }
+    ],
+    "aliases": [
+      "MS-71",
+      "魔法树屋 C·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-72",
+    "name": "Gui Yu",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-72",
+    "source": "广东美墅产品画册.pdf / PDF p.72",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-72",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 72
+      }
+    ],
+    "aliases": [
+      "MS-72",
+      "归 语·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-73",
+    "name": "Jun Xi",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-73",
+    "source": "广东美墅产品画册.pdf / PDF p.73",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-73",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 73
+      }
+    ],
+    "aliases": [
+      "MS-73",
+      "君 兮·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-74",
+    "name": "Lin Yin",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-74",
+    "source": "广东美墅产品画册.pdf / PDF p.74",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-74",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 74
+      }
+    ],
+    "aliases": [
+      "MS-74",
+      "林 隐·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-75",
+    "name": "Lin Feng",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-75",
+    "source": "广东美墅产品画册.pdf / PDF p.75",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-75",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 75
+      }
+    ],
+    "aliases": [
+      "MS-75",
+      "临 风·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-76",
+    "name": "Noah",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-76",
+    "source": "广东美墅产品画册.pdf / PDF p.76",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-76",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 76
+      }
+    ],
+    "aliases": [
+      "MS-76",
+      "诺 亚·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-77",
+    "name": "Tropical House",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-77",
+    "source": "广东美墅产品画册.pdf / PDF p.77",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-77",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 77
+      }
+    ],
+    "aliases": [
+      "MS-77",
+      "东南亚木屋·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-78",
+    "name": "Fairytale Castle · 1",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-78",
+    "source": "广东美墅产品画册.pdf / PDF p.78",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-78",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 78
+      }
+    ],
+    "aliases": [
+      "MS-78",
+      "童话堡单层·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-79",
+    "name": "Fairytale Castle · 2",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-79",
+    "source": "广东美墅产品画册.pdf / PDF p.79",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-79",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 79
+      }
+    ],
+    "aliases": [
+      "MS-79",
+      "童话堡双层·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-80",
+    "name": "Fan Hua",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-80",
+    "source": "广东美墅产品画册.pdf / PDF p.80",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-80",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 80
+      }
+    ],
+    "aliases": [
+      "MS-80",
+      "繁 花·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-81",
+    "name": "Oval Egg",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-81",
+    "source": "广东美墅产品画册.pdf / PDF p.81",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-81",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 81
+      }
+    ],
+    "aliases": [
+      "MS-81",
+      "椭圆蛋屋·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-82",
+    "name": "Acorn A",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-82",
+    "source": "广东美墅产品画册.pdf / PDF p.82",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-82",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 82
+      }
+    ],
+    "aliases": [
+      "MS-82",
+      "橡果屋 A·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-83",
+    "name": "Acorn B",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-83",
+    "source": "广东美墅产品画册.pdf / PDF p.83",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-83",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 83
+      }
+    ],
+    "aliases": [
+      "MS-83",
+      "橡果屋 B·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-84",
+    "name": "Acorn C",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-84",
+    "source": "广东美墅产品画册.pdf / PDF p.84",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-84",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 84
+      }
+    ],
+    "aliases": [
+      "MS-84",
+      "橡果屋 C·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-85",
+    "name": "Zhu Lang B",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-85",
+    "source": "广东美墅产品画册.pdf / PDF p.85",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-85",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 85
+      }
+    ],
+    "aliases": [
+      "MS-85",
+      "逐 浪 B·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-86",
+    "name": "Zhu Lang C",
+    "category": "Novi koncepti",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-86",
+    "source": "广东美墅产品画册.pdf / PDF p.86",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Idejni model za turistički smeštaj sa posebnim karakterom.",
+    "code": "MS-86",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 86
+      }
+    ],
+    "aliases": [
+      "MS-86",
+      "逐 浪 C·度假屋"
+    ]
+  },
+  {
+    "id": "meishu-88",
+    "name": "Chinese Courtyard",
+    "category": "Dvorišne celine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-88",
+    "source": "广东美墅产品画册.pdf / PDF p.88",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kompozicija objekata i otvorenog prostora za celovit projekat.",
+    "code": "MS-88",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 88
+      }
+    ],
+    "aliases": [
+      "MS-88",
+      "中式庭院 CHINESE-STYLE COURTYARD"
+    ]
+  },
+  {
+    "id": "meishu-89",
+    "name": "Ye Wu Courtyard",
+    "category": "Dvorišne celine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-89",
+    "source": "广东美墅产品画册.pdf / PDF p.89",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kompozicija objekata i otvorenog prostora za celovit projekat.",
+    "code": "MS-89",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 89
+      }
+    ],
+    "aliases": [
+      "MS-89",
+      "叶舞庭院 DANCING LEAVES COURTYARD"
+    ]
+  },
+  {
+    "id": "meishu-90",
+    "name": "Ya Ju Courtyard",
+    "category": "Dvorišne celine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-90",
+    "source": "广东美墅产品画册.pdf / PDF p.90",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kompozicija objekata i otvorenog prostora za celovit projekat.",
+    "code": "MS-90",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 90
+      }
+    ],
+    "aliases": [
+      "MS-90",
+      "雅居庭院 ELEGANT COURTYARD"
+    ]
+  },
+  {
+    "id": "meishu-91",
+    "name": "Zhu Xi Courtyard",
+    "category": "Dvorišne celine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-91",
+    "source": "广东美墅产品画册.pdf / PDF p.91",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kompozicija objekata i otvorenog prostora za celovit projekat.",
+    "code": "MS-91",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 91
+      }
+    ],
+    "aliases": [
+      "MS-91",
+      "竹熹庭院 BAMBOO GLOW COURTYARD"
+    ]
+  },
+  {
+    "id": "meishu-92",
+    "name": "Qi Yu Courtyard",
+    "category": "Dvorišne celine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-92",
+    "source": "广东美墅产品画册.pdf / PDF p.92",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kompozicija objekata i otvorenog prostora za celovit projekat.",
+    "code": "MS-92",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 92
+      }
+    ],
+    "aliases": [
+      "MS-92",
+      "栖语庭院 QIYU COURTYARD"
+    ]
+  },
+  {
+    "id": "meishu-93",
+    "name": "Xiang Yun Courtyard",
+    "category": "Dvorišne celine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "interior": null,
+    "footprint": null,
+    "dimensions": null,
+    "weight": null,
+    "note": "",
+    "image": "meishu-93",
+    "source": "广东美墅产品画册.pdf / PDF p.93",
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Kompozicija objekata i otvorenog prostora za celovit projekat.",
+    "code": "MS-93",
+    "sourceRefs": [
+      {
+        "document": "meishu",
+        "page": 93
+      }
+    ],
+    "aliases": [
+      "MS-93",
+      "祥云庭院 LUCKY CLOUD COURTYARD"
+    ]
+  },
+  {
+    "id": "zx-12",
+    "name": "Market 01",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "15m × 15m × 7m",
+    "image": "zx-12",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.12",
+    "code": "ZX-12",
+    "aliases": [
+      "ZX-12"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "zx-13",
+    "name": "Market 02",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "3m  ×  15m  ×  2.8m",
+    "image": "zx-13",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.13",
+    "code": "ZX-13",
+    "aliases": [
+      "ZX-13"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "zx-14",
+    "name": "Community",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "3m  ×  6m  ×  2.8m",
+    "image": "zx-14",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.14",
+    "code": "ZX-14",
+    "aliases": [
+      "ZX-14"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "zx-15",
+    "name": "Office 01",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "15m × 12m × 8m",
+    "image": "zx-15",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.15",
+    "code": "ZX-15",
+    "aliases": [
+      "ZX-15"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "zx-16",
+    "name": "Office 02",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "15m  ×  12m  ×  8m",
+    "image": "zx-16",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.16",
+    "code": "ZX-16",
+    "aliases": [
+      "ZX-16"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "zx-17",
+    "name": "Resort",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "15m  ×  8m  ×  6.5m",
+    "image": "zx-17",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.17",
+    "code": "ZX-17",
+    "aliases": [
+      "ZX-17"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "zx-18",
+    "name": "Ticket & Storage",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "8m  ×  3m  ×  2.8m",
+    "image": "zx-18",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.18",
+    "code": "ZX-18",
+    "aliases": [
+      "ZX-18"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "zx-19",
+    "name": "Office 03",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "12m  ×  8m  ×  5.6m",
+    "image": "zx-19",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.19",
+    "code": "ZX-19",
+    "aliases": [
+      "ZX-19"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "zx-20",
+    "name": "Café Duo",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "8m  ×  5m  ×  5.6m",
+    "image": "zx-20",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.20",
+    "code": "ZX-20",
+    "aliases": [
+      "ZX-20"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 20
+      }
+    ]
+  },
+  {
+    "id": "zx-21",
+    "name": "Office 04",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "8m  ×  6m  ×  5.6m",
+    "image": "zx-21",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.21",
+    "code": "ZX-21",
+    "aliases": [
+      "ZX-21"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 21
+      }
+    ]
+  },
+  {
+    "id": "zx-22",
+    "name": "Library",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "12m  ×  2.7m  ×  2.8m",
+    "image": "zx-22",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.22",
+    "code": "ZX-22",
+    "aliases": [
+      "ZX-22"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 22
+      }
+    ]
+  },
+  {
+    "id": "zx-23",
+    "name": "Mobile Home",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "6m  ×  2.5m  ×  2.8m",
+    "image": "zx-23",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.23",
+    "code": "ZX-23",
+    "aliases": [
+      "ZX-23"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 23
+      }
+    ]
+  },
+  {
+    "id": "zx-24",
+    "name": "Commercial Plaza",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "30m  ×  25m  ×  9m",
+    "image": "zx-24",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.24",
+    "code": "ZX-24",
+    "aliases": [
+      "ZX-24"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 24
+      }
+    ]
+  },
+  {
+    "id": "zx-25",
+    "name": "Café 01",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "6m  ×  2.5m  ×  2.8m",
+    "image": "zx-25",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.25",
+    "code": "ZX-25",
+    "aliases": [
+      "ZX-25"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 25
+      }
+    ]
+  },
+  {
+    "id": "zx-26",
+    "name": "Café 02",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "6m  ×  2.5m  ×  2.8m",
+    "image": "zx-26",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.26",
+    "code": "ZX-26",
+    "aliases": [
+      "ZX-26"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 26
+      }
+    ]
+  },
+  {
+    "id": "zx-27",
+    "name": "Café 03",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "6m  ×  3m  ×  2.8m",
+    "image": "zx-27",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.27",
+    "code": "ZX-27",
+    "aliases": [
+      "ZX-27"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 27
+      }
+    ]
+  },
+  {
+    "id": "zx-28",
+    "name": "Breakfast",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "3m  ×  2.5m  ×  2.8m",
+    "image": "zx-28",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.28",
+    "code": "ZX-28",
+    "aliases": [
+      "ZX-28"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "id": "zx-29",
+    "name": "Retail",
+    "category": "Poslovni moduli",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "6m  ×  2.5m  ×  2.8m",
+    "image": "zx-29",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.29",
+    "code": "ZX-29",
+    "aliases": [
+      "ZX-29"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 29
+      }
+    ]
+  },
+  {
+    "id": "zx-31",
+    "name": "Apple Office",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "12m  ×  6m  ×  2.8m",
+    "image": "zx-31",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.31",
+    "code": "ZX-31",
+    "aliases": [
+      "ZX-31"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 31
+      }
+    ]
+  },
+  {
+    "id": "zx-32",
+    "name": "Apple Lounge",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": null,
+    "image": "zx-32",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.32",
+    "code": "ZX-32",
+    "aliases": [
+      "ZX-32"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 32
+      }
+    ],
+    "note": "Katalog prikazuje dve dimenzijske varijante. Konačnu varijantu i mere potvrditi pre ponude."
+  },
+  {
+    "id": "zx-33",
+    "name": "Apple Station",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "10m  ×  3m  ×  2.8m",
+    "image": "zx-33",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.33",
+    "code": "ZX-33",
+    "aliases": [
+      "ZX-33"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 33
+      }
+    ]
+  },
+  {
+    "id": "zx-34",
+    "name": "Apple Stay",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "6m  ×  3m  ×  2.8m",
+    "image": "zx-34",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.34",
+    "code": "ZX-34",
+    "aliases": [
+      "ZX-34"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 34
+      }
+    ]
+  },
+  {
+    "id": "zx-35",
+    "name": "Apple Shop",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "6m  ×  3m  ×  2.8m",
+    "image": "zx-35",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.35",
+    "code": "ZX-35",
+    "aliases": [
+      "ZX-35"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 35
+      }
+    ]
+  },
+  {
+    "id": "zx-36",
+    "name": "Community Station",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "4m  ×  3m  ×  2.8m",
+    "image": "zx-36",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.36",
+    "code": "ZX-36",
+    "aliases": [
+      "ZX-36"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 36
+      }
+    ]
+  },
+  {
+    "id": "zx-37",
+    "name": "Stay 01",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "6m  ×  3  ×  2.8m",
+    "image": "zx-37",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.37",
+    "code": "ZX-37",
+    "aliases": [
+      "ZX-37"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 37
+      }
+    ]
+  },
+  {
+    "id": "zx-38",
+    "name": "Tech 01",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "9m  ×  3  ×  2.8m",
+    "image": "zx-38",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.38",
+    "code": "ZX-38",
+    "aliases": [
+      "ZX-38"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 38
+      }
+    ]
+  },
+  {
+    "id": "zx-39",
+    "name": "Outdoor Station",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "6m  ×  3  ×  2.8m",
+    "image": "zx-39",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.39",
+    "code": "ZX-39",
+    "aliases": [
+      "ZX-39"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 39
+      }
+    ]
+  },
+  {
+    "id": "zx-40",
+    "name": "Showroom",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "9m  ×  3  ×  2.8m",
+    "image": "zx-40",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.40",
+    "code": "ZX-40",
+    "aliases": [
+      "ZX-40"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 40
+      }
+    ]
+  },
+  {
+    "id": "zx-41",
+    "name": "Stay 03",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "10m × 4  ×  3.4m",
+    "image": "zx-41",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.41",
+    "code": "ZX-41",
+    "aliases": [
+      "ZX-41"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 41
+      }
+    ]
+  },
+  {
+    "id": "zx-42",
+    "name": "Apple Rest",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "2.5m  ×  2.5m  ×  2.8m",
+    "image": "zx-42",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.42",
+    "code": "ZX-42",
+    "aliases": [
+      "ZX-42"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 42
+      }
+    ]
+  },
+  {
+    "id": "zx-43",
+    "name": "Apple Gallery",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "6m  ×  3m  ×  2.8m",
+    "image": "zx-43",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.43",
+    "code": "ZX-43",
+    "aliases": [
+      "ZX-43"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 43
+      }
+    ]
+  },
+  {
+    "id": "zx-44",
+    "name": "Apple Duo",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "12m  ×  12m  ×  5.6m",
+    "image": "zx-44",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.44",
+    "code": "ZX-44",
+    "aliases": [
+      "ZX-44"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 44
+      }
+    ]
+  },
+  {
+    "id": "zx-45",
+    "name": "Apple Mobile",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "6m  ×  3m  ×  2.8m",
+    "image": "zx-45",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.45",
+    "code": "ZX-45",
+    "aliases": [
+      "ZX-45"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 45
+      }
+    ]
+  },
+  {
+    "id": "zx-46",
+    "name": "Apple Studio",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "6m  ×  6m  ×  2.8m",
+    "image": "zx-46",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.46",
+    "code": "ZX-46",
+    "aliases": [
+      "ZX-46"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 46
+      }
+    ]
+  },
+  {
+    "id": "zx-47",
+    "name": "Apple Reception",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "2.5m  ×  1.8m  ×  2.6m",
+    "image": "zx-47",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.47",
+    "code": "ZX-47",
+    "aliases": [
+      "ZX-47"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 47
+      }
+    ]
+  },
+  {
+    "id": "zx-48",
+    "name": "Apple Camp",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "12m  ×  3m  ×  2.8m",
+    "image": "zx-48",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.48",
+    "code": "ZX-48",
+    "aliases": [
+      "ZX-48"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 48
+      }
+    ]
+  },
+  {
+    "id": "zx-49",
+    "name": "Self-service Shop",
+    "category": "Apple kabine",
+    "area": "Na upit",
+    "areaLabel": "Površina nije navedena",
+    "dimensions": "12m × 3m  ×  2.8m",
+    "image": "zx-49",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.49",
+    "code": "ZX-49",
+    "aliases": [
+      "ZX-49"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 49
+      }
+    ]
+  },
+  {
+    "id": "zx-51",
+    "name": "Retail 36",
+    "category": "Poslovni moduli",
+    "area": "36 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-51",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.51",
+    "code": "ZX-51",
+    "aliases": [
+      "ZX-51"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 51
+      }
+    ]
+  },
+  {
+    "id": "zx-52",
+    "name": "Stay 24",
+    "category": "Apple kabine",
+    "area": "24 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-52",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.52",
+    "code": "ZX-52",
+    "aliases": [
+      "ZX-52"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 52
+      }
+    ]
+  },
+  {
+    "id": "zx-53",
+    "name": "Stay 12",
+    "category": "Apple kabine",
+    "area": "12 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-53",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.53",
+    "code": "ZX-53",
+    "aliases": [
+      "ZX-53"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 53
+      }
+    ]
+  },
+  {
+    "id": "zx-54",
+    "name": "Kiosk 09",
+    "category": "Apple kabine",
+    "area": "9 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-54",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.54",
+    "code": "ZX-54",
+    "aliases": [
+      "ZX-54"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 54
+      }
+    ]
+  },
+  {
+    "id": "zx-55",
+    "name": "Sanitary 30",
+    "category": "Poslovni moduli",
+    "area": "30 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-55",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.55",
+    "code": "ZX-55",
+    "aliases": [
+      "ZX-55"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 55
+      }
+    ]
+  },
+  {
+    "id": "zx-56",
+    "name": "Office 36",
+    "category": "Apple kabine",
+    "area": "36 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-56",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.56",
+    "code": "ZX-56",
+    "aliases": [
+      "ZX-56"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 56
+      }
+    ]
+  },
+  {
+    "id": "zx-57",
+    "name": "Camp 27",
+    "category": "Apple kabine",
+    "area": "27 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-57",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.57",
+    "code": "ZX-57",
+    "aliases": [
+      "ZX-57"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 57
+      }
+    ]
+  },
+  {
+    "id": "zx-60",
+    "name": "Smoking Lounge",
+    "category": "Apple kabine",
+    "area": "18 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-60",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.60",
+    "code": "ZX-60",
+    "aliases": [
+      "ZX-60"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 60
+      }
+    ]
+  },
+  {
+    "id": "zx-61",
+    "name": "Studio 09",
+    "category": "Apple kabine",
+    "area": "9 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-61",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.61",
+    "code": "ZX-61",
+    "aliases": [
+      "ZX-61"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 61
+      }
+    ]
+  },
+  {
+    "id": "zx-63",
+    "name": "Apple Stay 33",
+    "category": "Apple kabine",
+    "area": "33 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-63",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.63",
+    "code": "ZX-63",
+    "aliases": [
+      "ZX-63"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 63
+      }
+    ]
+  },
+  {
+    "id": "zx-64",
+    "name": "Meeting 05",
+    "category": "Apple kabine",
+    "area": "5 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-64",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.64",
+    "code": "ZX-64",
+    "aliases": [
+      "ZX-64"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 64
+      }
+    ]
+  },
+  {
+    "id": "zx-65",
+    "name": "Lounge 78",
+    "category": "Apple kabine",
+    "area": "78 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-65",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.65",
+    "code": "ZX-65",
+    "aliases": [
+      "ZX-65"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 65
+      }
+    ]
+  },
+  {
+    "id": "zx-66",
+    "name": "Service 18",
+    "category": "Apple kabine",
+    "area": "18 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-66",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.66",
+    "code": "ZX-66",
+    "aliases": [
+      "ZX-66"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 66
+      }
+    ]
+  },
+  {
+    "id": "zx-67",
+    "name": "Service 56",
+    "category": "Poslovni moduli",
+    "area": "56 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-67",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.67",
+    "code": "ZX-67",
+    "aliases": [
+      "ZX-67"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 67
+      }
+    ]
+  },
+  {
+    "id": "zx-68",
+    "name": "Reading 36",
+    "category": "Apple kabine",
+    "area": "36 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-68",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.68",
+    "code": "ZX-68",
+    "aliases": [
+      "ZX-68"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 68
+      }
+    ]
+  },
+  {
+    "id": "zx-69",
+    "name": "Café 18",
+    "category": "Poslovni moduli",
+    "area": "18 m²",
+    "areaLabel": "Površina prema katalogu",
+    "dimensions": null,
+    "image": "zx-69",
+    "description": "Modularni prostor iz kolekcije Zhongxin. Namena i završna konfiguracija određuju se prema odabranom projektu.",
+    "supplier": "Zhongxin",
+    "source": "创意集装箱及苹果舱产品介绍.pdf / PDF p.69",
+    "code": "ZX-69",
+    "aliases": [
+      "ZX-69"
+    ],
+    "sourceRefs": [
+      {
+        "document": "zx",
+        "page": 69
+      }
+    ]
+  },
+  {
+    "id": "sc-1",
+    "name": "Duplex 01",
+    "category": "Modularni objekti",
+    "area": "140 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-1",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.2",
+    "code": "SC-01",
+    "aliases": [
+      "SC-01",
+      "双层01",
+      "Duplex 01"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 2
+      }
+    ],
+    "gallery": [
+      "sc-1-detail"
+    ]
+  },
+  {
+    "id": "sc-2",
+    "name": "Duplex 02",
+    "category": "Modularni objekti",
+    "area": "72 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-2",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.3",
+    "code": "SC-02",
+    "aliases": [
+      "SC-02",
+      "双层02",
+      "Duplex 02"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 3
+      }
+    ],
+    "gallery": [
+      "sc-2-detail"
+    ]
+  },
+  {
+    "id": "sc-3",
+    "name": "Duplex 03",
+    "category": "Modularni objekti",
+    "area": "72 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-3",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.4",
+    "code": "SC-03",
+    "aliases": [
+      "SC-03",
+      "双层03",
+      "Duplex 03"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 4
+      }
+    ],
+    "gallery": [
+      "sc-3-detail"
+    ]
+  },
+  {
+    "id": "sc-4",
+    "name": "Duplex 04",
+    "category": "Modularni objekti",
+    "area": "72 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-4",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.5",
+    "code": "SC-04",
+    "aliases": [
+      "SC-04",
+      "双层04",
+      "Duplex 04"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 5
+      }
+    ],
+    "gallery": [
+      "sc-4-detail"
+    ]
+  },
+  {
+    "id": "sc-5",
+    "name": "Duplex 05",
+    "category": "Modularni objekti",
+    "area": "123 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-5",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.6",
+    "code": "SC-05",
+    "aliases": [
+      "SC-05",
+      "双层05",
+      "Duplex 05"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 6
+      }
+    ],
+    "gallery": [
+      "sc-5-detail"
+    ]
+  },
+  {
+    "id": "sc-6",
+    "name": "Duplex 06",
+    "category": "Modularni objekti",
+    "area": "77 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-6",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.7",
+    "code": "SC-06",
+    "aliases": [
+      "SC-06",
+      "双层06",
+      "Duplex 06"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 7
+      }
+    ],
+    "gallery": [
+      "sc-6-detail"
+    ]
+  },
+  {
+    "id": "sc-8",
+    "name": "Duplex 08",
+    "category": "Modularni objekti",
+    "area": "72 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-8",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.9",
+    "code": "SC-08",
+    "aliases": [
+      "SC-08",
+      "双层08",
+      "Duplex 08"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 9
+      }
+    ],
+    "gallery": [
+      "sc-8-detail"
+    ]
+  },
+  {
+    "id": "sc-9",
+    "name": "Duplex 09",
+    "category": "Modularni objekti",
+    "area": "49,5 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-9",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.10",
+    "code": "SC-09",
+    "aliases": [
+      "SC-09",
+      "双层09",
+      "Duplex 09"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 10
+      }
+    ],
+    "gallery": [
+      "sc-9-detail"
+    ]
+  },
+  {
+    "id": "sc-10",
+    "name": "Duplex 10",
+    "category": "Modularni objekti",
+    "area": "63 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-10",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.11",
+    "code": "SC-10",
+    "aliases": [
+      "SC-10",
+      "双层10",
+      "Duplex 10"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 11
+      }
+    ],
+    "gallery": [
+      "sc-10-detail"
+    ]
+  },
+  {
+    "id": "sc-12",
+    "name": "Duplex 12",
+    "category": "Modularni objekti",
+    "area": "98 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-12",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.13",
+    "code": "SC-12",
+    "aliases": [
+      "SC-12",
+      "双层12",
+      "Duplex 12"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 13
+      }
+    ],
+    "gallery": [
+      "sc-12-detail"
+    ]
+  },
+  {
+    "id": "sc-13",
+    "name": "Duplex 13",
+    "category": "Modularni objekti",
+    "area": "63 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-13",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.14",
+    "code": "SC-13",
+    "aliases": [
+      "SC-13",
+      "双层13",
+      "Duplex 13"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 14
+      }
+    ],
+    "gallery": [
+      "sc-13-detail"
+    ]
+  },
+  {
+    "id": "sc-14",
+    "name": "Duplex 14",
+    "category": "Modularni objekti",
+    "area": "54 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-14",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.15",
+    "code": "SC-14",
+    "aliases": [
+      "SC-14",
+      "双层14",
+      "Duplex 14"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 15
+      }
+    ],
+    "gallery": [
+      "sc-14-detail"
+    ]
+  },
+  {
+    "id": "sc-15",
+    "name": "Duplex 15",
+    "category": "Modularni objekti",
+    "area": "180 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-15",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.16",
+    "code": "SC-15",
+    "aliases": [
+      "SC-15",
+      "双层15",
+      "Duplex 15"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 16
+      }
+    ],
+    "gallery": [
+      "sc-15-detail"
+    ]
+  },
+  {
+    "id": "sc-16",
+    "name": "Duplex 16",
+    "category": "Modularni objekti",
+    "area": "104 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-16",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.17",
+    "code": "SC-16",
+    "aliases": [
+      "SC-16",
+      "双层16",
+      "Duplex 16"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 17
+      }
+    ],
+    "gallery": [
+      "sc-16-detail"
+    ]
+  },
+  {
+    "id": "sc-17",
+    "name": "Duplex 17",
+    "category": "Modularni objekti",
+    "area": "192 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-17",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.18",
+    "code": "SC-17",
+    "aliases": [
+      "SC-17",
+      "双层17",
+      "Duplex 17"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 18
+      }
+    ],
+    "gallery": [
+      "sc-17-detail"
+    ]
+  },
+  {
+    "id": "sc-18",
+    "name": "Duplex 18",
+    "category": "Modularni objekti",
+    "area": "80,5 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-18",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.19",
+    "code": "SC-18",
+    "aliases": [
+      "SC-18",
+      "双层18",
+      "Duplex 18"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 19
+      }
+    ],
+    "gallery": [
+      "sc-18-detail"
+    ]
+  },
+  {
+    "id": "sc-19",
+    "name": "Duplex 19",
+    "category": "Modularni objekti",
+    "area": "63 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-19",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.20",
+    "code": "SC-19",
+    "aliases": [
+      "SC-19",
+      "双层19",
+      "Duplex 19"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 20
+      }
+    ],
+    "gallery": [
+      "sc-19-detail"
+    ]
+  },
+  {
+    "id": "sc-20",
+    "name": "Duplex 20",
+    "category": "Modularni objekti",
+    "area": "38,5 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-20",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.21",
+    "code": "SC-20",
+    "aliases": [
+      "SC-20",
+      "双层20",
+      "Duplex 20"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 21
+      }
+    ],
+    "gallery": [
+      "sc-20-detail"
+    ]
+  },
+  {
+    "id": "sc-21",
+    "name": "Duplex 21",
+    "category": "Modularni objekti",
+    "area": "268 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-21",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.22",
+    "code": "SC-21",
+    "aliases": [
+      "SC-21",
+      "双层21",
+      "Duplex 21"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 22
+      }
+    ],
+    "gallery": [
+      "sc-21-detail"
+    ]
+  },
+  {
+    "id": "sc-22",
+    "name": "Duplex 22",
+    "category": "Modularni objekti",
+    "area": "99 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-22",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.23",
+    "code": "SC-22",
+    "aliases": [
+      "SC-22",
+      "双层22",
+      "Duplex 22"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 23
+      }
+    ],
+    "gallery": [
+      "sc-22-detail"
+    ]
+  },
+  {
+    "id": "sc-23",
+    "name": "Duplex 23",
+    "category": "Modularni objekti",
+    "area": "144 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-23",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.24",
+    "code": "SC-23",
+    "aliases": [
+      "SC-23",
+      "双层23",
+      "Duplex 23"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 24
+      }
+    ],
+    "gallery": [
+      "sc-23-detail"
+    ]
+  },
+  {
+    "id": "sc-24",
+    "name": "Duplex 24",
+    "category": "Modularni objekti",
+    "area": "73,5 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-24",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.25",
+    "code": "SC-24",
+    "aliases": [
+      "SC-24",
+      "双层24",
+      "Duplex 24"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 25
+      }
+    ],
+    "gallery": [
+      "sc-24-detail"
+    ]
+  },
+  {
+    "id": "sc-25",
+    "name": "Duplex 25",
+    "category": "Modularni objekti",
+    "area": "108 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-25",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.26",
+    "code": "SC-25",
+    "aliases": [
+      "SC-25",
+      "双层25",
+      "Duplex 25"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 26
+      }
+    ],
+    "gallery": [
+      "sc-25-detail"
+    ]
+  },
+  {
+    "id": "sc-26",
+    "name": "Duplex 26",
+    "category": "Modularni objekti",
+    "area": "87 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-26",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.27",
+    "code": "SC-26",
+    "aliases": [
+      "SC-26",
+      "双层26",
+      "Duplex 26"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 27
+      }
+    ],
+    "gallery": [
+      "sc-26-detail"
+    ]
+  },
+  {
+    "id": "sc-27",
+    "name": "Duplex 27",
+    "category": "Modularni objekti",
+    "area": "117 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-27",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.28",
+    "code": "SC-27",
+    "aliases": [
+      "SC-27",
+      "双层27",
+      "Duplex 27"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 28
+      }
+    ],
+    "gallery": [
+      "sc-27-detail"
+    ]
+  },
+  {
+    "id": "sc-28",
+    "name": "Duplex 28",
+    "category": "Modularni objekti",
+    "area": "144 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-28",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.29",
+    "code": "SC-28",
+    "aliases": [
+      "SC-28",
+      "双层28",
+      "Duplex 28"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 29
+      }
+    ],
+    "gallery": [
+      "sc-28-detail"
+    ]
+  },
+  {
+    "id": "sc-29",
+    "name": "Duplex 29",
+    "category": "Modularni objekti",
+    "area": "246 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-29",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.30",
+    "code": "SC-29",
+    "aliases": [
+      "SC-29",
+      "双层29",
+      "Duplex 29"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 30
+      }
+    ],
+    "gallery": [
+      "sc-29-detail"
+    ]
+  },
+  {
+    "id": "sc-30",
+    "name": "Duplex 30",
+    "category": "Modularni objekti",
+    "area": "102 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-30",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.31",
+    "code": "SC-30",
+    "aliases": [
+      "SC-30",
+      "双层30",
+      "Duplex 30"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 31
+      }
+    ],
+    "gallery": [
+      "sc-30-detail"
+    ]
+  },
+  {
+    "id": "sc-31",
+    "name": "Duplex 31",
+    "category": "Modularni objekti",
+    "area": "49 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-31",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.32",
+    "code": "SC-31",
+    "aliases": [
+      "SC-31",
+      "双层31",
+      "Duplex 31"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 32
+      }
+    ],
+    "gallery": [
+      "sc-31-detail"
+    ]
+  },
+  {
+    "id": "sc-32",
+    "name": "Duplex 32",
+    "category": "Modularni objekti",
+    "area": "84 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-32",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.33",
+    "code": "SC-32",
+    "aliases": [
+      "SC-32",
+      "双层32",
+      "Duplex 32"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 33
+      }
+    ],
+    "gallery": [
+      "sc-32-detail"
+    ]
+  },
+  {
+    "id": "sc-33",
+    "name": "Duplex 33",
+    "category": "Modularni objekti",
+    "area": "102 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-33",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.34",
+    "code": "SC-33",
+    "aliases": [
+      "SC-33",
+      "双层33",
+      "Duplex 33"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 34
+      }
+    ],
+    "gallery": [
+      "sc-33-detail"
+    ]
+  },
+  {
+    "id": "sc-34",
+    "name": "Duplex 34",
+    "category": "Modularni objekti",
+    "area": "54 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-34",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.35",
+    "code": "SC-34",
+    "aliases": [
+      "SC-34",
+      "双层34",
+      "Duplex 34"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 35
+      }
+    ],
+    "gallery": [
+      "sc-34-detail"
+    ]
+  },
+  {
+    "id": "sc-35",
+    "name": "Duplex 35",
+    "category": "Modularni objekti",
+    "area": "42 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-35",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.36",
+    "code": "SC-35",
+    "aliases": [
+      "SC-35",
+      "双层35",
+      "Duplex 35"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 36
+      }
+    ],
+    "gallery": [
+      "sc-35-detail"
+    ]
+  },
+  {
+    "id": "sc-36",
+    "name": "Duplex 36",
+    "category": "Modularni objekti",
+    "area": "45 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-36",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.37",
+    "code": "SC-36",
+    "aliases": [
+      "SC-36",
+      "双层36",
+      "Duplex 36"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 37
+      }
+    ],
+    "gallery": [
+      "sc-36-detail"
+    ]
+  },
+  {
+    "id": "sc-37",
+    "name": "Duplex 37",
+    "category": "Modularni objekti",
+    "area": "120 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-37",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.38",
+    "code": "SC-37",
+    "aliases": [
+      "SC-37",
+      "双层37",
+      "Duplex 37"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 38
+      }
+    ],
+    "gallery": [
+      "sc-37-detail"
+    ]
+  },
+  {
+    "id": "sc-38",
+    "name": "Duplex 38",
+    "category": "Modularni objekti",
+    "area": "51 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-38",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.39",
+    "code": "SC-38",
+    "aliases": [
+      "SC-38",
+      "双层38",
+      "Duplex 38"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 39
+      }
+    ],
+    "gallery": [
+      "sc-38-detail"
+    ]
+  },
+  {
+    "id": "sc-39",
+    "name": "Duplex 39",
+    "category": "Modularni objekti",
+    "area": "213 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-39",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.40",
+    "code": "SC-39",
+    "aliases": [
+      "SC-39",
+      "双层39",
+      "Duplex 39"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 40
+      }
+    ],
+    "gallery": [
+      "sc-39-detail"
+    ]
+  },
+  {
+    "id": "sc-40",
+    "name": "Duplex 40",
+    "category": "Modularni objekti",
+    "area": "135 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-40",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.41",
+    "code": "SC-40",
+    "aliases": [
+      "SC-40",
+      "双层40",
+      "Duplex 40"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 41
+      }
+    ],
+    "gallery": [
+      "sc-40-detail"
+    ]
+  },
+  {
+    "id": "sc-41",
+    "name": "Duplex 41",
+    "category": "Modularni objekti",
+    "area": "108 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-41",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.42",
+    "code": "SC-41",
+    "aliases": [
+      "SC-41",
+      "双层41",
+      "Duplex 41"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 42
+      }
+    ],
+    "gallery": [
+      "sc-41-detail"
+    ]
+  },
+  {
+    "id": "sc-42",
+    "name": "Duplex 42",
+    "category": "Modularni objekti",
+    "area": "147 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-42",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.43",
+    "code": "SC-42",
+    "aliases": [
+      "SC-42",
+      "双层42",
+      "Duplex 42"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 43
+      }
+    ],
+    "gallery": [
+      "sc-42-detail"
+    ]
+  },
+  {
+    "id": "sc-43",
+    "name": "Duplex 43",
+    "category": "Modularni objekti",
+    "area": "63 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-43",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.44",
+    "code": "SC-43",
+    "aliases": [
+      "SC-43",
+      "双层43",
+      "Duplex 43"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 44
+      }
+    ],
+    "gallery": [
+      "sc-43-detail"
+    ]
+  },
+  {
+    "id": "sc-44",
+    "name": "Duplex 44",
+    "category": "Modularni objekti",
+    "area": "99 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-44",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.45",
+    "code": "SC-44",
+    "aliases": [
+      "SC-44",
+      "双层44",
+      "Duplex 44"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 45
+      }
+    ],
+    "gallery": [
+      "sc-44-detail"
+    ]
+  },
+  {
+    "id": "sc-45",
+    "name": "Duplex 45",
+    "category": "Modularni objekti",
+    "area": "132 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-45",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.46",
+    "code": "SC-45",
+    "aliases": [
+      "SC-45",
+      "双层45",
+      "Duplex 45"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 46
+      }
+    ],
+    "gallery": [
+      "sc-45-detail"
+    ]
+  },
+  {
+    "id": "sc-46",
+    "name": "Duplex 46",
+    "category": "Modularni objekti",
+    "area": "90 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-46",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.47",
+    "code": "SC-46",
+    "aliases": [
+      "SC-46",
+      "双层46",
+      "Duplex 46"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 47
+      }
+    ],
+    "gallery": [
+      "sc-46-detail"
+    ]
+  },
+  {
+    "id": "sc-47",
+    "name": "Duplex 47",
+    "category": "Modularni objekti",
+    "area": "45,5 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-47",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.48",
+    "code": "SC-47",
+    "aliases": [
+      "SC-47",
+      "双层47",
+      "Duplex 47"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 48
+      }
+    ],
+    "gallery": [
+      "sc-47-detail"
+    ]
+  },
+  {
+    "id": "sc-48",
+    "name": "Duplex 48",
+    "category": "Modularni objekti",
+    "area": "63 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-48",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.49",
+    "code": "SC-48",
+    "aliases": [
+      "SC-48",
+      "双层48",
+      "Duplex 48"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 49
+      }
+    ],
+    "gallery": [
+      "sc-48-detail"
+    ]
+  },
+  {
+    "id": "sc-49",
+    "name": "Duplex 49",
+    "category": "Modularni objekti",
+    "area": "108 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-49",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.50",
+    "code": "SC-49",
+    "aliases": [
+      "SC-49",
+      "双层49",
+      "Duplex 49"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 50
+      }
+    ],
+    "gallery": [
+      "sc-49-detail"
+    ]
+  },
+  {
+    "id": "sc-50",
+    "name": "Duplex 50",
+    "category": "Modularni objekti",
+    "area": "61 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-50",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.51",
+    "code": "SC-50",
+    "aliases": [
+      "SC-50",
+      "双层50",
+      "Duplex 50"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 51
+      }
+    ],
+    "gallery": [
+      "sc-50-detail"
+    ]
+  },
+  {
+    "id": "sc-51",
+    "name": "Duplex 51",
+    "category": "Modularni objekti",
+    "area": "171 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-51",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.52",
+    "code": "SC-51",
+    "aliases": [
+      "SC-51",
+      "双层51",
+      "Duplex 51"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 52
+      }
+    ],
+    "gallery": [
+      "sc-51-detail"
+    ]
+  },
+  {
+    "id": "sc-52",
+    "name": "Duplex 52",
+    "category": "Modularni objekti",
+    "area": "210 m²",
+    "areaLabel": "Građevinska površina",
+    "image": "sc-52",
+    "description": "Dvospratni modularni koncept sa prepoznatljivim arhitektonskim izrazom. Za ugostiteljski, prodajni ili višenamenski projekat.",
+    "supplier": "Zhongxin",
+    "source": "双层创意集装箱款式.pdf / PDF p.53",
+    "code": "SC-52",
+    "aliases": [
+      "SC-52",
+      "双层52",
+      "Duplex 52"
+    ],
+    "sourceRefs": [
+      {
+        "document": "sc",
+        "page": 53
+      }
+    ],
+    "gallery": [
+      "sc-52-detail"
+    ]
+  },
+  {
+    "id": "mengmeng-shiguang-large",
+    "name": "Shi Guang · L",
+    "code": "MM-SG-LARGE",
+    "aliases": [
+      "拾光大",
+      "Shi Guang · L"
+    ],
+    "category": "Gotove kabine",
+    "area": "57 m²",
+    "areaLabel": "Površina modela",
+    "image": "mengmeng-shiguang-large",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.26",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 26,
+        "variant": "large"
+      }
+    ],
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Dodatna veličina modela Shi Guang, prikazana u pregledu kolekcije.",
+    "note": "Model je prikazan u pregledu serije; detaljne mere i specifikacija nisu navedene."
+  },
+  {
+    "id": "mengmeng-shiguang-small",
+    "name": "Shi Guang · S",
+    "code": "MM-SG-SMALL",
+    "aliases": [
+      "拾光小",
+      "Shi Guang · S"
+    ],
+    "category": "Gotove kabine",
+    "area": "25 m²",
+    "areaLabel": "Površina modela",
+    "image": "mengmeng-shiguang-small",
+    "source": "美墅萌萌屋吊装产品介绍2026.pdf / PDF p.26",
+    "sourceRefs": [
+      {
+        "document": "mengmeng",
+        "page": 26,
+        "variant": "small"
+      }
+    ],
+    "supplier": "Meishu / Mengmengwu",
+    "description": "Dodatna veličina modela Shi Guang, prikazana u pregledu kolekcije.",
+    "note": "Model je prikazan u pregledu serije; detaljne mere i specifikacija nisu navedene."
+  }
+]

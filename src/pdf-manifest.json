@@ -1,0 +1,114 @@
+{
+  "/downloads/katalog-digital.pdf": {
+    "size": 28606107,
+    "sha256": "534e1e93859eab9d3e621f3fe0b5f261842b44a01aac58a94992443f859713d0",
+    "parts": [
+      {
+        "path": "/_pdf/digital-534e1e93859e-0.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/digital-534e1e93859e-1.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/digital-534e1e93859e-2.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/digital-534e1e93859e-3.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/digital-534e1e93859e-4.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/digital-534e1e93859e-5.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/digital-534e1e93859e-6.bin",
+        "size": 3440283
+      }
+    ]
+  },
+  "/downloads/katalog-print.pdf": {
+    "size": 74852451,
+    "sha256": "789b79d9ac8d1fea2b65b95824d93d8df35082f2f490b1d0d463aee241acc561",
+    "parts": [
+      {
+        "path": "/_pdf/print-789b79d9ac8d-0.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-1.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-2.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-3.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-4.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-5.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-6.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-7.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-8.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-9.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-10.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-11.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-12.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-13.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-14.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-15.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-16.bin",
+        "size": 4194304
+      },
+      {
+        "path": "/_pdf/print-789b79d9ac8d-17.bin",
+        "size": 3549283
+      }
+    ]
+  }
+}
