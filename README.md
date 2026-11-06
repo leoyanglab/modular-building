@@ -58,3 +58,7 @@ GitHub Actions 的 `Check catalog` 工作流在 `main` push 和 PR 时执行独�
 CSP 仅额外放行该站点的统计节点 `https://node92.aizhantj.com:21233`；使用独立 JS 文件加载，不启用 `unsafe-inline` 或 `unsafe-eval`。统计采用平台默认页面访问行为，不额外采集询价表单内容。产品详情弹窗、搜索筛选不额外手工计入 PV，PDF 请求不执行页面统计。
 
 报表：https://tongji.aizhan.com/analysis/index/index/?siteId=226859 。新配置同步和报表入库可能有延迟，需在后台确认实际访问数据。
+
+## 代码阅读与维护
+
+[代码结构与阅读顺序](docs/architecture.md) 说明入口、模块职责和状态边界。统一格式：`npm run format`；检查格式：`npm run format:check`。
